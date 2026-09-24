@@ -1,0 +1,8 @@
+{
+  "name": " V5 سامانه تولید محتوا ایکس",
+  "description": "نسخه در حال کار ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
